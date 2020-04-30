@@ -1,0 +1,19 @@
+{
+  "name": "dicadocelso.com",
+  "version": "0.0.1",
+  "description": "Uma excelente dica do Celso.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlozovei/dicadocelso.com.git"
+  },
+  "author": "Julio Lozovei <jlozovei@gmail.com> (https://jlozovei.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlozovei/dicadocelso.com/issues"
+  },
+  "homepage": "https://github.com/jlozovei/dicadocelso.com#readme"
+}
